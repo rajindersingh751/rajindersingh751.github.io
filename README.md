@@ -12,9 +12,9 @@ Before we get started with uploading and styling our GitHub Page, we need to kno
 
 
 ## More Resources
-i.	A markdown tutorial
-ii.	A link to the Etter’s book
-iii.	At least one other resource
+i.	A markdown tutorial  
+ii.	A link to the Etter’s book  
+iii.	At least one other resource  
 
 
 ## Authors and Aknoledgments
