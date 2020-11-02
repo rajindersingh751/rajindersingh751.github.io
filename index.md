@@ -13,13 +13,13 @@
 
 ## Technical Skills
 ### Languages  
-* Java | Python | C/C++ | MySQL
-* Javascript | HTML | CSS
+* Java, Python,  C/C++, MySQL
+* Javascript, HTML, CSS
 
 
 ### Technologies
-* React.js | Bootstrap
-* Node.js | Django
+* React.js, Bootstrap
+* Node.js, Django
 * Android Studio
 
 ---
