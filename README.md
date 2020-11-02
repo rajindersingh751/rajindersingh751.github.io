@@ -18,15 +18,16 @@ Before we get started with uploading and styling our GitHub Page, we need to kno
 
 
 ## Authors and Acknowledgments
-Rajinder Singh - Template Author
-Person 1 - Peer Editor
-Person 2 - Peer Editor
+Authors  
+* Rajinder Singh - Template Author   
+* Person 1 - Peer Editor    
+* Person 2 - Peer Editor    
 
-2.	Acknoledgements
-GitHubPages Tutorial
-Markdown guidline
-Jeykell-theme-Tactile author(hyperlink this)
-Etter Book reference (hyperlink this)
+Acknoledgements  
+* GitHubPages Tutorial  
+* Markdown guidline  
+* Jeykell-theme-Tactile author(hyperlink this)  
+* Etter Book reference (hyperlink this)  
 
 
 ## FAQ's
