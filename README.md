@@ -12,12 +12,12 @@ Before we get started with uploading and styling our GitHub Page, we need to kno
 
 
 ## More Resources
-i.	A markdown tutorial  
-ii.	A link to the Etter’s book  
-iii.	At least one other resource  
+* A markdown tutorial  
+* A link to the Etter’s book  
+* At least one other resource  
 
 
-## Authors and Aknoledgments
+## Authors and Acknowledgments
 Rajinder Singh - Template Author
 Person 1 - Peer Editor
 Person 2 - Peer Editor
@@ -36,7 +36,3 @@ Although Microsoft Word is a fantastic application for the end user, but any asp
 Question 2
  Why are we using  LML as opposed to HTML?
 A lightweight Markup Language (LML) is a type of language which was originally meant to augment HTML and its main focus was to encourage developers to produce documentation for their projects. Overall Markdown is very simple and requires almost no coding knowledge. In our tutorial we are going to use StackEdit which is an online live Markdown editor where one can make their changes and view them live, the other reason why I chose this is because it supports file export which is a very helpful feature and we are going to demonstrate how to use this feature in the demo section of this document.
-
-
-
-
