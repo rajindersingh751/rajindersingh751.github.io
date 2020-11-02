@@ -1,10 +1,10 @@
 # Hosting your resume on GitHub pages
 
 ## Purpose
-ii.	This aim of this document is to provide the reader with a tutorial on how one can upload their resume on GitHub Pages using a Markdown editor and Jekyll. 
+The aim of this document is to provide the reader with a tutorial on how one can upload their resume on GitHub Pages using a Markdown editor and Jekyll. These changes will be made by utilizing the principals in the *Modern Technical Writing* by Andrew Etter. 
 
 ## Prerequisites
-Before we get started with uploading and styling our GitHub Page, we need to know how to use GitHub Flavored Markdown and Jekyll. The knowledge to use both of these technologies are provided with a link in the “More Resources” section of this document.
+Before we get started with uploading and styling our GitHub Page, we need to know how to use GitHub Flavored Markdown and Jekyll. The knowledge to use both of these technologies are provided with a link in the >More Resources< section of this document.
 
 
 ## Instructions
