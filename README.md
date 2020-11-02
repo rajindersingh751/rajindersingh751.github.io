@@ -8,7 +8,7 @@ Before we get started with uploading and styling our GitHub Page, we need to kno
 
 
 ## Instructions
-i.	GIF should feature your own resume (showing your name in GIF)
+
 
 
 ## More Resources
