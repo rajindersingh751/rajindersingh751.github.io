@@ -1,11 +1,10 @@
 # Hosting your resume on GitHub pages
 
 ## Purpose
-The purpose of this document is to assist anyone with the knowledge of coding or enrolled in a post secondary into the Computer Science field who will be looking to showcase their resume on GitHub Pages to help them acquire their programming job from future employer
+ii.	This aim of this document is to provide the reader with a tutorial on how one can upload their resume on GitHub Pages using a Markdown editor and Jekyll. 
 
 ## Prerequisites
-A resume formatted in Markdown will be required. If you do not know how Markdown works, a i.	In order to get started with uploading your resume to GitHub Pages, one needs to familiarize themselves with Markdown(hyperlink the text) and GitHub pages (hyper link this one too in more resources).
-ii.	Include a link to a good tutorial for using Markdown
+Before we get started with uploading and styling our GitHub Page, we need to know how to use GitHub Flavored Markdown and Jekyll. The knowledge to use both of these technologies are provided with a link in the “More Resources” section of this document.
 
 
 ## Instructions
