@@ -4,7 +4,7 @@
 The aim of this document is to provide the reader with a tutorial on how one can upload their resume on GitHub Pages using a Markdown editor and Jekyll. These changes will be made by utilizing the principals in the *Modern Technical Writing* by Andrew Etter. 
 
 ## Prerequisites
-Before we get started with uploading and styling our GitHub Page, we need to know how to use GitHub Flavored Markdown and Jekyll. The knowledge to use both of these technologies are provided with a link in the >More Resources< section of this document.
+Before we get started with uploading and styling our GitHub Page, we need to know how to use GitHub Flavored Markdown and Jekyll. The knowledge to use both of these technologies are provided with a link in the More Resources section of this document.
 
 
 ## Instructions
@@ -17,17 +17,17 @@ ii.	A link to the Etter’s book
 iii.	At least one other resource
 
 
-## Authors and Aknoledgments - credit template authors and group members
+## Authors and Aknoledgments
 i.	Template Authors:
-1.	Rajinder Singh – Template
-ii.	Peer Revision Authors
-1.	Name 1 – peer editor
-2.	Name 2 – peer editor
-iii.	Acknoledgements
-1.	GitHubPages Tutorial
-2.	Markdown guidline
-3.	Jeykell-theme-Tactile author(hyperlink this)
-4.	Etter Book reference (hyperlink this)
+  	Rajinder Singh – Template Author
+  	Peer Revision Authors
+i.	Name 1 – peer editor
+ii.	Name 2 – peer editor
+2.	Acknoledgements
+i.	GitHubPages Tutorial
+ii.	Markdown guidline
+iii.	Jeykell-theme-Tactile author(hyperlink this)
+iv.	Etter Book reference (hyperlink this)
 
 
 ## FAQ's
