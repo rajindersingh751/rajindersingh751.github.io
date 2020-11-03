@@ -12,7 +12,9 @@ This section provides an end to end,detailed steps on how one can upload their r
 
 ### Getting Started with the basics  
 1.	Log into your GitHub account and Create a repository
-2.	Now we will follow the 3 steps:    
+2.	Now we will follow the 3 steps: 
+![Steps TEST](/assets/repo-settings.png)  
+
 ### Changing the Settings     
 3.	Navigate to the settings page and Scroll down until you see the “GitHub Pages” section as shown below. Under the source tab, set the branch settings to Main and then click on “Save” to update your settings.    
 ### Choosing a Theme    
