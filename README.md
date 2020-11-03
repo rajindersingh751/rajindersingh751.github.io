@@ -12,13 +12,13 @@ This section provides an end to end,detailed steps on how one can upload their r
 
 Getting Started with the basics  
 1.	Log into your GitHub account and Create a repository
-2.	Now we will follow the 3 steps:  
+2.	Now we will follow the 3 steps:    
 Changing the Settings     
-3.	Navigate to the settings page and Scroll down until you see the “GitHub Pages” section as shown below. Under the source tab, set the branch settings to Main and then click on “Save” to update your settings.  
+3.	Navigate to the settings page and Scroll down until you see the “GitHub Pages” section as shown below. Under the source tab, set the branch settings to Main and then click on “Save” to update your settings.    
 Choosing a Theme    
-4.	 Now click on “Choose a theme” which will redirect you to a new Page. At the top half of the Page we are going to navigate the carousel until we get to the “Tactile” theme and click the button Select Theme, you will then be redirected to   
+4.	 Now click on “Choose a theme” which will redirect you to a new Page. At the top half of the Page we are going to navigate the carousel until we get to the “Tactile” theme and click the button Select Theme, you will then be redirected to     
 Creating the index file  
-5.	Now we are presented with the following screen which prompts to show a new file and we are going to rename it to “index.md.” This will be the index file in our repository which will store our resume for viewing. Below in the editor we can see a template file which shows the features provided with a Markdown File. You can make your necessary changes and click on Make changes to update the file.  
+5.	Now we are presented with the following screen which prompts to show a new file and we are going to rename it to “index.md.” This will be the index file in our repository which will store our resume for viewing. Below in the editor we can see a template file which shows the features provided with a Markdown File. You can make your necessary changes and click on Make changes to update the file.    
 
 
 
