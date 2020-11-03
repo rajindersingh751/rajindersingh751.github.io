@@ -12,7 +12,7 @@ This section provides an end to end, detailed steps on how one can upload their 
 
 ### Getting Started with the basics  
 1.	Log in or Create your GitHub account, then Create a repository  
-![img](/Assets/create-repo.png)  
+![img](/Assets/create-repo.jpg)  
 2.	Now we will follow the 3 steps:   
 ![img](/Assets/repo-settings.png)  
 
