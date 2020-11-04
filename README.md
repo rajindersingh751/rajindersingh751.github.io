@@ -44,7 +44,8 @@ This section provides an end to end, detailed steps on how one can upload their 
 Authors  
 * **Rajinder Singh** - Template Author   
 * **Emily Nguyen**   - Peer Editor    
-* **Charina Duenas** - Peer Editor    
+* **Charina Duenas** - Peer Editor 
+* **Mohammed Anjum** - Peer Editor 
 
 ## Acknoledgements  
 * GitHubPages Tutorial  
