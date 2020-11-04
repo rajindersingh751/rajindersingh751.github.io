@@ -18,9 +18,10 @@ Before we get started with uploading and styling our GitHub Page, we need to kno
 This section provides an end to end, detailed steps on how one can upload their resume on GitHub Pages.
 
 ### Getting Started with the basics  
-1.	Log in or Create your GitHub account, then Create a repository which  
+1.	Log in or Create your GitHub account, then click on Create a repository.
 ![img](/Assets/create-repo.jpg)  
-2.	Now we will follow the 3 steps:   
+2.	Now we will make the changes as shown in the image below:
+Note: Make sure the repository name is "<yourusername>.gitgub.io".
 ![img](/Assets/repo-settings.png)  
 
 ### Changing the Settings     
@@ -33,11 +34,11 @@ This section provides an end to end, detailed steps on how one can upload their 
 5.	Now we are presented with the following screen which prompts to show a new file and we are going to rename it to “index.md.” This will be the index file in our repository which will store our resume for viewing. Below in the editor we can see a template file which shows the features provided with a Markdown File. You can make your necessary changes and click on Make changes to update the file.    
 ![img](/Assets/theme-edit.png)   
 
-
 ## More Resources
-* A markdown tutorial  
-* A link to the Etter’s book  
-* At least one other resource  
+* [GitHubPages Tutorial](https://guides.github.com/features/pages/)  
+* [Markown Tutorial](https://www.markdownguide.org/)
+* [Jekyll Tutorials](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) 
+* [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)    
 
 
 ## Authors and Acknowledgments
@@ -47,11 +48,8 @@ Authors
 * **Charina Duenas** - Peer Editor 
 * **Mohammed Anjum** - Peer Editor 
 
-## Acknoledgements  
-* GitHubPages Tutorial  
-* Markdown guidline  
-* Jeykell-theme-Tactile author(hyperlink this)  
-* Etter Book reference (hyperlink this)  
+## Acknoledgements 
+* [Jekyll Tectile Theme](https://github.com/pages-themes/tactile)    
 
 
 ## FAQ's
