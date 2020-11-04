@@ -3,6 +3,14 @@
 ## Purpose
 The aim of this document is to provide the reader with a tutorial on how one can upload their resume on GitHub Pages using a Markdown editor and Jekyll. These changes will be made by utilizing the principals in the *Modern Technical Writing* by Andrew Etter. 
 
+### Motivation for the reader
+There are three main reasons why are we are doing this activity, the first being the importance of static websites, the second being the use of a Lightweight Markup Language (LML) and the third being the integration of an LML into a static site generator like GitHub Pages in such a way which promotes engagement from viewers to host a distributed file sharing system among themselves.  
+
+Andrew Etter states that he likes static websites since speed, simplicity, portability, and security. Static websites are much more secure than dynamic since they are very portable and take up a lot less space. Since there are a lot less moving parts in static websites, and therefore increasing security due to the fact that there are no moving parts such as blogs or comment section in other content management systems such as Wordpress or Joomla.  
+
+In Sections with the title *Build a Website* and *Help Others write* Andrew mentions that > “Hosting your content on a website gives you the power to fix inaccuracies almost instantly and keep your content in sync with the latest software release.”  
+And this is very relatable to everyone, since we all have files ending with a number which means that we have a previous version of it downloaded already on our machines. To avoid this Andrew suggests to upload everything in HTML format, and to upload in such a way that people will be happy to share their expertise with you relevant to the topic of discussion. This will not only open many avenues for the discussion but also help develop the documentation since you are getting lots of perspectives with people who could be from a variety of backgrounds.  
+
 ## Prerequisites
 Before we get started with uploading and styling our GitHub Page, we need to know how to use GitHub Flavored Markdown and Jekyll. The knowledge to use both of these technologies are provided with a link in the More Resources section of this document.
 
@@ -34,11 +42,11 @@ This section provides an end to end, detailed steps on how one can upload their 
 
 ## Authors and Acknowledgments
 Authors  
-* Rajinder Singh - Template Author   
-* Person 1 - Peer Editor    
-* Person 2 - Peer Editor    
+* **Rajinder Singh** - Template Author   
+* **Emily Nguyen**   - Peer Editor    
+* **Charina Duenas** - Peer Editor    
 
-Acknoledgements  
+## Acknoledgements  
 * GitHubPages Tutorial  
 * Markdown guidline  
 * Jeykell-theme-Tactile author(hyperlink this)  
