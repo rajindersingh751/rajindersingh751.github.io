@@ -18,7 +18,7 @@ Before we get started with uploading and styling our GitHub Page, we need to kno
 This section provides an end to end, detailed steps on how one can upload their resume on GitHub Pages.
 
 ### Getting Started with the basics  
-1.	Log in or Create your GitHub account, then Create a repository  
+1.	Log in or Create your GitHub account, then Create a repository which  
 ![img](/Assets/create-repo.jpg)  
 2.	Now we will follow the 3 steps:   
 ![img](/Assets/repo-settings.png)  
