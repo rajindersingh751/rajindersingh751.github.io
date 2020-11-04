@@ -4,7 +4,7 @@
 The aim of this document is to provide the reader with a tutorial on how one can upload their resume on GitHub Pages using a Markdown editor and Jekyll. These changes will be made by utilizing the principals in the *Modern Technical Writing* by Andrew Etter. 
 
 ### Motivation for the reader
-There are three main reasons why are we are doing this activity, the first being the importance of static websites, the second being the use of a Lightweight Markup Language (LML) and the third being the integration of an LML into a static site generator like GitHub Pages in such a way which promotes engagement from viewers to host a distributed file sharing system among themselves.  
+There are three main reasons why are we are doing this activity, the first being the importance of static websites, the second being the use of a Lightweight Markup Language (LML) and the third being the integration of an LML into a static site generator like GitHub Pages in such a way which promotes engagement from viewers to host a distributed file sharing system among themselves. One can read more about the importance of LML in the FAQ's section at the end of the document.
 
 Andrew Etter states that he likes static websites since speed, simplicity, portability, and security. Static websites are much more secure than dynamic since they are very portable and take up a lot less space. Since there are a lot less moving parts in static websites, and therefore increasing security due to the fact that there are no moving parts such as blogs or comment section in other content management systems such as Wordpress or Joomla.  
 
