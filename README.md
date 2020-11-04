@@ -8,7 +8,10 @@ There are three main reasons why are we are doing this activity, the first being
 
 Andrew Etter states that he likes static websites since speed, simplicity, portability, and security. Static websites are much more secure than dynamic since they are very portable and take up a lot less space. Since there are a lot less moving parts in static websites, and therefore increasing security due to the fact that there are no moving parts such as blogs or comment section in other content management systems such as Wordpress or Joomla.  
 
-In Sections with the title *Build a Website* and *Help Others write* Andrew mentions that > “Hosting your content on a website gives you the power to fix inaccuracies almost instantly and keep your content in sync with the latest software release.”  
+In Sections with the title *Build a Website* and *Help Others write* Andrew mentions that  
+
+> “Hosting your content on a website gives you the power to fix inaccuracies almost instantly and keep your content in sync with the latest software release.”  
+
 And this is very relatable to everyone, since we all have files ending with a number which means that we have a previous version of it downloaded already on our machines. To avoid this Andrew suggests to upload everything in HTML format, and to upload in such a way that people will be happy to share their expertise with you relevant to the topic of discussion. This will not only open many avenues for the discussion but also help develop the documentation since you are getting lots of perspectives with people who could be from a variety of backgrounds.  
 
 ## Prerequisites
