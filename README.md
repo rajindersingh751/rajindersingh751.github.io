@@ -62,8 +62,8 @@ Authors
 
 
 ## FAQ's
-Why is Markdown better than a word processor?  
+### Why is Markdown better than a word processor?  
 Although Microsoft Word is a fantastic application for the end user, but any aspiring programmer should take the initiative to look into Markdown as it is a great tool to publish Documentation which can be updated on most devices. Markdown has many advantages over Word but the major factor being easier to read and easier to write in plain text format which is very close to plain HTML. These advantages aid the programmer to produce some documentation to maintain its lifespan, since the editor can make changes on the fly and eliminates the need for the end user to download a disposable copy which are considered as waste since they are disposable. 
  
-Why are we using  LML as opposed to HTML?  
+### Why are we using  LML as opposed to HTML?  
 A lightweight Markup Language (LML) is a type of language which was originally meant to augment HTML and its main focus was to encourage developers to produce documentation for their projects. Overall Markdown is very simple and requires almost no coding knowledge. In our tutorial we are going to use StackEdit which is an online live Markdown editor where one can make their changes and view them live, the other reason why I chose this is because it supports file export which is a very helpful feature and we are going to demonstrate how to use this feature in the demo section of this document.  
