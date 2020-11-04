@@ -29,10 +29,16 @@ Note: Make sure the repository name is "<yourusername>.gitgub.io".
 ![img](/Assets/repo-theme-change.png)    
 ### Choosing a Theme    
 4.	 Now click on “Choose a theme” which will redirect you to a new Page. At the top half of the Page we are going to navigate the carousel until we get to the “Tactile” theme and click the button Select Theme, this will initialize the theme and make the changes accordingly to your file.  
-![img](/Assets/theme-carousel.png)      
+![img](/Assets/theme-carousel.png)  
+
 ### Creating the index file  
 5.	Now we are presented with the following screen which prompts to show a new file and we are going to rename it to “index.md.” This will be the index file in our repository which will store our resume for viewing. Below in the editor we can see a template file which shows the features provided with a Markdown File. You can make your necessary changes and click on Make changes to update the file.    
 ![img](/Assets/theme-edit.png)   
+
+### The Final Product  
+After making the changes as described above, you should end up with a final result as shown below.  
+![ResumeGif](/Assets/resumeGif.gif)
+
 
 ## More Resources
 * [GitHubPages Tutorial](https://guides.github.com/features/pages/)  
